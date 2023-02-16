@@ -1,4 +1,4 @@
-<script>
+<script  >
 import AboutMe from '@/components/about/AboutMe';
 import AboutCounter from '@/components/about/AboutCounter';
 import AboutClients from '@/components/about/AboutClients';
